@@ -13,7 +13,7 @@
     "kernel": "knee-infer-v94-j-s3w5-s6w35",
     "version": 1,
     "submission": 57522189,
-    "public_lb": null,
+    "public_lb": 0.957,
     "submitted": true,
     "submitted_notebook_sha256": "f42424452a633e9fface086c03b926a5944c02a1ba3fd5bee1effa2d68563d4a"
   }

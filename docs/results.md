@@ -29,7 +29,7 @@ numbers are in [evaluation.md](evaluation.md).
 
 | Variant | Change vs v90 | Gold-58 (in-sample) | Submission | Public | Private |
 |---|---|---|---|---|---|
-| v94 | Stage 3 PF OA / Synovitis / Baker's → 0.5; S6 0.35 | 0.9419 | 57522189 | pending | pending |
+| v94 | Stage 3 PF OA / Synovitis / Baker's → 0.5; S6 0.35 | 0.9419 | 57522189 | 0.957 | pending |
 | v95 | Stage 3 PF OA / Synovitis 0.35, Fracture 0.75; per-finding S6; longer S6 window | 0.9442 | 57524258 | pending | pending |
 | v96-a | R6-lean Stage 3 (Lateral OA 0, ACL / PF OA / Synovitis 0.35); S6 0.35 | 0.9438 | 57527153 | pending | pending |
 | v96-b | Same Stage 3; S6 0.45 | 0.9440 | 57527149 | pending | pending |

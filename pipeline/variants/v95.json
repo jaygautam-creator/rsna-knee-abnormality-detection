@@ -32,7 +32,7 @@
     "kernel": "knee-infer-v95-probit-stage3fix",
     "version": 1,
     "submission": 57524258,
-    "public_lb": null,
+    "public_lb": 0.957,
     "submitted": true,
     "submitted_notebook_sha256": "10d2d2a10f5f14a23fea1b0251ec9c2a2f6c5b551f306bbe5e68794786b30660"
   }

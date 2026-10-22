@@ -14,7 +14,7 @@
     "kernel": "knee-infer-v96-r6lean-s35",
     "version": 1,
     "submission": 57527153,
-    "public_lb": null,
+    "public_lb": 0.958,
     "submitted": true,
     "submitted_notebook_sha256": "f11aa4be4a2c251a4814ae9edae765799277c6c819c2380ccb933d63e1038d05"
   }

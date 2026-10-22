@@ -14,7 +14,7 @@
     "kernel": "knee-infer-v96-r6max-s45",
     "version": 1,
     "submission": 57527151,
-    "public_lb": null,
+    "public_lb": 0.955,
     "submitted": true,
     "submitted_notebook_sha256": "061bc9056857769e25a30f809374377730e6ec9745c1c21c802a48cb20629ab5"
   }

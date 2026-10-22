@@ -1,0 +1,21 @@
+{
+  "name": "v96-b",
+  "description": "R6/S6-lean Stage 3 (Lateral OA 0, ACL / PF OA / Synovitis 0.35) + S6 0.45.",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.0,
+    "PF OA": 0.35,
+    "Synovitis": 0.35,
+    "Baker's": 0.5,
+    "ACL": 0.35
+  },
+  "w_s6": 0.45,
+  "provenance": {
+    "kernel": "knee-infer-v96-r6lean-s45",
+    "version": 1,
+    "submission": 57527149,
+    "public_lb": null,
+    "submitted": true,
+    "submitted_notebook_sha256": "10abacfb28e979fe3dbbcd9e3972de47773965b503fab71e4e41f513327fca3e"
+  }
+}

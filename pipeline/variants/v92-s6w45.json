@@ -1,0 +1,20 @@
+{
+  "name": "v92-s6w45",
+  "description": "v90 with the S6 weight raised to 0.45 (built and validated; not submitted).",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.15,
+    "PF OA": 0.65,
+    "Synovitis": 0.85,
+    "Baker's": 0.3
+  },
+  "w_s6": 0.45,
+  "provenance": {
+    "kernel": "knee-infer-v92-j-s6w45",
+    "version": 2,
+    "submission": null,
+    "public_lb": null,
+    "submitted": false,
+    "submitted_notebook_sha256": "258e33c26c3257801a8ef347c047c8e1031fb8b1188462a368db6f2f218f4df5"
+  }
+}

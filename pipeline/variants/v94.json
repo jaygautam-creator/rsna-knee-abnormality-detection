@@ -1,0 +1,20 @@
+{
+  "name": "v94",
+  "description": "Stage 3 PF OA / Synovitis / Baker's reverted to the neutral 0.5 (split-half validated rule) + S6 0.35.",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.15,
+    "PF OA": 0.5,
+    "Synovitis": 0.5,
+    "Baker's": 0.5
+  },
+  "w_s6": 0.35,
+  "provenance": {
+    "kernel": "knee-infer-v94-j-s3w5-s6w35",
+    "version": 1,
+    "submission": 57522189,
+    "public_lb": null,
+    "submitted": true,
+    "submitted_notebook_sha256": "f42424452a633e9fface086c03b926a5944c02a1ba3fd5bee1effa2d68563d4a"
+  }
+}

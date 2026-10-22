@@ -1,0 +1,39 @@
+{
+  "name": "v95",
+  "description": "Stage 3 PF OA / Synovitis 0.35, Fracture 0.75; per-finding S6 (0.20 / 0.35); longer S6 window. Built by a second agent.",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.15,
+    "PF OA": 0.35,
+    "Synovitis": 0.35,
+    "Baker's": 0.3,
+    "Fracture": 0.75
+  },
+  "w_s6": {
+    "ACL": 0.35,
+    "MCL": 0.35,
+    "Medial Meniscus": 0.2,
+    "Lateral Meniscus": 0.35,
+    "Medial OA": 0.35,
+    "Lateral OA": 0.35,
+    "PF OA": 0.35,
+    "Effusion": 0.2,
+    "Synovitis": 0.35,
+    "Baker's": 0.35,
+    "Contusion": 0.2,
+    "Fracture": 0.2
+  },
+  "s6_timing": {
+    "S6_STOP_H": 8.6,
+    "S6_KILL_H": 8.72,
+    "S6_MIN_LEFT_H": 0.25
+  },
+  "provenance": {
+    "kernel": "knee-infer-v95-probit-stage3fix",
+    "version": 1,
+    "submission": 57524258,
+    "public_lb": null,
+    "submitted": true,
+    "submitted_notebook_sha256": "10d2d2a10f5f14a23fea1b0251ec9c2a2f6c5b551f306bbe5e68794786b30660"
+  }
+}

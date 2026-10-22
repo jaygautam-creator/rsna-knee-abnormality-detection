@@ -1,0 +1,38 @@
+RSNA Knee Abnormality Detection: ensemble and evaluation
+Copyright 2026 Jay Gautam
+
+This repository is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party work
+----------------
+The inference notebooks in pipeline/ embed and run code from public Kaggle notebooks and datasets. That code
+keeps its original license and attribution:
+
+* nartaa: Raptor CoAtNet inference notebooks ("RSNA Knee 0949 Anatomical Mirror", "RSNA Knee 0945 Efficient
+  224crop"), SWA checkpoints (dataset rsna-knee-publication-swa-weights-20261007) and the S6 all-data model
+  (dataset rsna-knee-s6fall-weights).
+* dreaddevelopment: Raptor CoAtNet/MIL inference recipe and public baseline weights
+  (https://www.kaggle.com/datasets/dreaddevelopment/raptor-knee-widedense).
+* heliosli: R6 compact ConvNeXt bundle (dataset rsna-knee-r6-frozen-fe055406-w1) and OrthoFoundation code
+  (dataset rsna-orthofoundation-fold0-epoch7-20261004).
+* goodpjw2008: 2.5D ConvNeXt MIL reader (Apache 2.0, dataset rsna-knee-2-5d-convnext-reader) and the public
+  "CoAtNet + R6 + 2.5D MIL" recipe that the v74 notebook forks.
+* varshithakolupuri: the 224-pixel stage and its 35 % share of the Raptor half
+  (https://www.kaggle.com/code/varshithakolupuri/rsna-knee-one-unused-checkpoint-lifts-the-0-956).
+* Weak-label sources used by the Raptor checkpoints: stevenleehans (rsna-knee-llm-report-labels),
+  pilkwang (rsna-knee-llm-labels), riadmohamed42 (JEV labels and verification).
+* The CoAtNet and ConvNeXt backbones come from timm.
+
+Required acknowledgement (Osteoarthritis Initiative)
+----------------------------------------------------
+Data and/or research tools used in the preparation of this manuscript were obtained and analyzed from the
+controlled access datasets distributed from the Osteoarthritis Initiative (OAI), a data repository housed within
+the NIMH Data Archive (NDA). OAI is a collaborative informatics system created by the National Institute of Mental
+Health and the National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMS) to provide a worldwide
+resource to quicken the pace of biomarker identification, scientific investigation and OA drug development.
+Dataset identifier(s): 10.15154/0hcg-f676.
+
+Competition data
+----------------
+No competition data is included. It is provided under the RSNA Knee Abnormality Detection competition rules:
+https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/rules

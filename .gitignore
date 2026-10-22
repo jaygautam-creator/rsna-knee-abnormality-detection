@@ -1,0 +1,39 @@
+# Competition data, model weights and run outputs: never committed
+data/
+artifacts/
+runs/
+build/
+*.dcm
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.safetensors
+*.zip
+
+# Values that must not be published (public test-study IDs for the S6 parity check)
+pipeline/local/
+
+# Credentials
+kaggle.json
+access_token
+.env
+.env.*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/

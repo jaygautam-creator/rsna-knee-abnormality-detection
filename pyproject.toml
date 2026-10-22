@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rsna-knee"
+version = "1.0.0"
+description = "RSNA Knee Abnormality Detection (Kaggle 2026): ensemble blend maths, gold-58 evaluation and notebook-variant tooling"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Jay Gautam" }]
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scikit-learn>=1.3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4", "ruff>=0.4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+filterwarnings = ["ignore::UserWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+extend-exclude = ["experiments", "pipeline"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/project_hidden_runtime.py" = ["UP031"]

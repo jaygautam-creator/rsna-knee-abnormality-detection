@@ -1,0 +1,20 @@
+{
+  "name": "v90",
+  "description": "Anchor: the public v74 recipe plus nartaa's S6 all-data model at a fixed 0.20 rank weight.",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.15,
+    "PF OA": 0.65,
+    "Synovitis": 0.85,
+    "Baker's": 0.3
+  },
+  "w_s6": 0.2,
+  "provenance": {
+    "kernel": "knee-infer-v90-s6w20",
+    "version": 1,
+    "submission": 57479867,
+    "public_lb": 0.958,
+    "submitted": true,
+    "submitted_notebook_sha256": "97a5cfb7dd085a3c5c30033e77db919cf9fd128e346fc025cb91408b8b400ec4"
+  }
+}

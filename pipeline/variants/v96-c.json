@@ -1,0 +1,21 @@
+{
+  "name": "v96-c",
+  "description": "Strongest R6 lean (Lateral OA 0, ACL / PF OA / Synovitis 0.15) + S6 0.45.",
+  "stage3_raptor_weight": {
+    "Medial OA": 0.5,
+    "Lateral OA": 0.0,
+    "PF OA": 0.15,
+    "Synovitis": 0.15,
+    "Baker's": 0.5,
+    "ACL": 0.15
+  },
+  "w_s6": 0.45,
+  "provenance": {
+    "kernel": "knee-infer-v96-r6max-s45",
+    "version": 1,
+    "submission": 57527151,
+    "public_lb": null,
+    "submitted": true,
+    "submitted_notebook_sha256": "061bc9056857769e25a30f809374377730e6ec9745c1c21c802a48cb20629ab5"
+  }
+}

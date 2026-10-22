@@ -1,0 +1,113 @@
+submitted_utc,submission_ref,public_score,status,description
+2026-08-08 07:28,55344285,0.826,complete,
+2026-08-10 06:30,55398731,0.896,complete,
+2026-08-12 06:22,55450676,0.905,complete,
+2026-08-14 07:31,55500565,0.900,complete,
+2026-08-19 16:53,55628191,0.906,complete,
+2026-08-20 10:29,55644229,0.918,complete,V48 public-ensemble repro T4x2 v2
+2026-09-04 12:27,56012421,0.918,complete,
+2026-09-07 17:44,56081935,,complete,infer-v7: Tri-Architecture Specialist Matrix (CoAtNet-2 + DINOv2 + In-House ConvNeXt)
+2026-09-08 07:40,56093609,,complete,test permission
+2026-09-08 07:49,56093769,,complete,fuse-v1: 50/50 Rank Blend V48 Public + 4-ckpt In-House ConvNeXt
+2026-09-08 18:22,56104598,0.935,complete,infer-v8: Lean 4.2h Tri-Architecture Specialist Matrix (CoAtNet-2 + DINOv2 + In-House ConvNeXt)
+2026-09-10 02:52,56135764,0.935,complete,infer-v9: High-Precision Specialist Matrix (0.95 Lateral Meniscus + 0.35 Contusion + CoAtNet-2 + ConvNeXt)
+2026-09-16 14:53,56281454,0.935,complete,infer-v10: 336px High-Res In-House Ensemble + CoAtNet-2 + DINOv2 Specialist Matrix
+2026-09-17 08:18,56299571,0.941,complete,infer-v11: Full 4-View Raptor CoAtNet + DINO + Probe #22 Specialist Routing (0.941+ Protocol)
+2026-09-17 19:08,56312068,0.940,complete,infer-v12: High-Fidelity v5 Rank Scale + RadImageNet Reverse-Flip TTA + Probe #22 (Target 0.945+)
+2026-09-18 16:30,56335051,0.940,complete,infer-v13: In-House SWA CoAtNet-2 + Probe #23 Specialist Matrix + Synovitis Calibration (Target 0.960+)
+2026-09-19 16:18,56365037,0.940,complete,infer-v14: Verified 0.942 Base + In-House SWA CoAtNet-2 + Corrected 80s Raptor (Target 0.950+)
+2026-09-21 05:53,56418161,0.937,complete,infer-v15: Quad-Family Engine (6-View Raptor + ConvNeXt-V2 + SWA + CoAt ResGated Top-3)
+2026-09-22 16:04,56469086,0.942,complete,infer-v16: Speedy Raptors + CoAtNet ResGated/D4/G96 Top3 (0.946 SOTA Engine)
+2026-09-23 07:03,56486266,0.942,complete,infer-v17: 0.942 Speedy Base + Dual-Space Raptor Consensus + Contusion 0.70 + Clinical Synovitis Calibration
+2026-09-24 04:52,56512035,0.932,complete,infer-v18: 0.942 Banked Base + 5-Fold Tri-Plane 2.5D Calibrated Ensemble (Target 0.960+)
+2026-09-24 05:40,56512903,0.942,complete,infer-v19: Surgical Meniscus Specialist B18/B15 + Banked 0.942 Base (Target 0.950+)
+2026-09-24 15:20,56524891,0.943,complete,infer-v20: Exact Mattia 0.946 SOTA Replica (0.70 CoAt + LM 1.00 + repairv1 Top-3)
+2026-09-25 10:07,56547847,0.942,complete,infer-v21: 0.943 Base + DINOv3 SlotHead 5-Fold Ensemble
+2026-09-26 13:41,56580658,0.943,complete,infer-v23: DINOsaur V5 Engine + Validated Anatomical Lifts + Fracture Rad Restoration
+2026-09-26 15:32,56583004,0.943,complete,infer-v22: 0.943 Base + Rad Fracture Inclusion + Synovitis CoAt Tuning
+2026-09-26 16:49,56584547,0.930,complete,infer-v24: DINOsaur V5 + 512px Angelus-Mayo Attention MIL + Biomechanical Lifts
+2026-09-27 08:29,56603525,0.942,complete,infer-v25: DINOsaur V5 + Logit Clinical Covariance + Synovitis Recovery
+2026-10-03 07:34,56792650,0.942,complete,infer-v26: BTKD 0.943 Base + ConvNeXt M448 448px High-Res Percentile-Rank Blend
+2026-10-03 10:22,56795648,,complete,infer-v27: BTKD 0.943 Base + ConvNeXt M448 448px Target-Aware Quantile Rank Fusion
+2026-10-03 16:00,56801779,0.930,complete,infer-v28: Balanced 50/50 Orthogonal Quantile Rank Consensus (BTKD 0.943 + ConvNeXt M448 448px)
+2026-10-04 10:48,56821791,0.941,complete,infer-v29: Base 0.943 + In-House Specialist Target-Aware Fusion
+2026-10-04 20:56,56833594,0.942,complete,infer-v30: Base 0.943 + In-House 5-Fold SOTA ResNet-34d Ensemble (CV 0.8620)
+2026-10-05 04:57,56842826,0.943,complete,infer-v31: Base 0.943 + In-House 5-Fold SOTA Calibrated Shrinkage (6-8%)
+2026-10-05 05:14,56843177,,complete,infer-v32: Tri-Specialist Master Consensus (Base 0.943 + SOTA 5-Fold + Coronal MCL Specialist)
+2026-10-05 17:16,56857814,,complete,infer-v33: Base 0.943 + In-House 5-Fold SOTA Top-5 Targeted Zero-Dilution Lift
+2026-10-06 05:34,56871447,0.943,complete,infer-v34: Verified 0.944 (Community Stack + 2.5D ConvNeXt-MIL Reader)
+2026-10-07 05:59,56901888,0.943,complete,infer-v35: Verified 0.944 (Pinned Docker Python 3.12 + 0.943 Community Stack + 2.5D ConvNeXt Reader)
+2026-10-07 06:22,56902387,0.944,complete,infer-v36: Calibrated Finding-Specific Blend (Zero Dilution Synovitis + 0.35 MCL/ACL/Meniscus/Contusion/Bakers)
+2026-10-07 17:08,56917065,0.944,complete,"infer-v37: Depth-Shift TTA + Dominant Finding Scaling (0.55 MCL, 0.50 ACL/Meniscus/Bakers/Contusion)"
+2026-10-07 17:30,56917542,0.942,complete,infer-v38: Depth-Shift TTA + Dual-T4 Sharded Borda Consensus + Agreement-Gated Shrinkage
+2026-10-07 19:11,56919820,0.945,complete,"infer-v39: Direct Target Power Routing (0.55 Bakers, 0.50 Contusion/MedOA, 0.45 ACL/MCL, 0.00 Synovitis) + Depth-Shift TTA + Dual-T4 Sharding"
+2026-10-08 04:54,56935377,0.950,complete,test
+2026-10-08 04:58,56935508,0.949,complete,nartaa 0.949 v2
+2026-10-08 09:37,56947274,0.948,complete,haideptry v5: CV-Optimal 0.952-0.955 with 3-tier fallback
+2026-10-08 10:59,56950354,0.949,complete,Apex Grandmaster V5: Pathology Routing 2.0 + Anti-Tie Calibration (Target 0.952-0.955)
+2026-10-08 14:51,56958924,0.943,complete,Matterhorn Velciraptor DINOsaur V2 (Target 0.950-0.952)
+2026-10-09 05:53,56994372,0.950,complete,Apex V5: Multi-Scale TTA + Lateral OA Boost (Target 0.953-0.955)
+2026-10-09 08:58,57002531,0.936,complete,DINOsaur V5: Conservative Lateral OA + Multi-GPU Sharded Reader (Target 0.952-0.954)
+2026-10-09 10:41,57006060,0.950,complete,Triple Reader: CoAtNet-384 + CoAtNet-224 + ConvNeXt-3fold (Target 0.954-0.956)
+2026-10-09 13:44,57010813,0.951,complete,Heliosli Compact Anatomical Crops + CoAtNet-384 (Target 0.951-0.953)
+2026-10-09 14:15,57011590,0.954,complete,Heliosli S6 Dual Architecture Compact + CoAtNet (Target 0.954-0.956)
+2026-10-10 11:49,57041330,0.954,complete,infer-v41: Verified Preserved S6 Compact + CoAtNet-384 Dual Stack
+2026-10-10 11:57,57041489,0.954,complete,infer-v42: Calibrated Finding-Specific S6 + CoAtNet Rebalance (Target 0.957-0.960)
+2026-10-10 16:26,57047492,0.954,complete,infer-v43: Logit-Rank Space Extreme-Tail Fusion + Calibrated Finding Weights
+2026-10-10 16:33,57047655,0.954,complete,infer-v44: L2 Contrast Rank Space Fusion + Calibrated Finding Weights
+2026-10-10 16:39,57047769,0.954,complete,infer-v45: Max-Gated Positive Rescue on Report-Deficient Findings
+2026-10-11 06:58,57065628,0.944,complete,infer-s6-standalone: Pure S6 Compact Model Standalone Evaluation
+2026-10-11 13:16,57075057,0.954,complete,infer-v46: Optimal 60/40 Empirical Blend (Raptor 0.60 + S6 0.40)
+2026-10-11 13:21,57075183,0.954,complete,infer-v48: Power-Contrast Sharpening (p=1.15) on 60/40 Blend
+2026-10-11 14:11,57076476,0.954,complete,infer-v47: Co-Equal 50/50 Rank Blend (Raptor 0.50 + S6 0.50)
+2026-10-11 14:11,57076484,0.954,complete,"infer-v49: Clinically Calibrated Anatomical Blend (55/45 Ligaments, 65/35 OA)"
+2026-10-12 08:15,57101009,0.954,complete,infer-v50: Tri-Model Architecture Stack (30% Raptor SWA + 30% G233 Gemini + 40% S6 Compact)
+2026-10-12 08:20,57101103,0.952,complete,infer-v51: Dual-Trunk Gemini CoAtNet (G233) + S6 Compact (50/50 Rank Blend)
+2026-10-12 11:15,57105435,0.948,complete,infer-v52: Pure Standalone Benchmark of G233 Gemini CoAtNet
+2026-10-12 13:47,57108993,0.954,complete,"infer-v53: Specialist Pathology-Routed Tri-Blend (G233 boosted on LatOA/Bakers/Effusion, Raptor preserved on Meniscus)"
+2026-10-12 21:31,57119252,0.954,complete,infer-v46: Optimal 60/40 Empirical Blend evaluation
+2026-10-14 07:16,57172275,0.769,complete,v60 CPU: 5-Fold TriPlane + 2-Fold ConvNeXt + Attention-MIL Specialist (Colab AUC 0.8476)
+2026-10-14 07:21,57172426,0.769,complete,v61 CPU: Power-Contrast Sharpening (p=1.20) on 8-Model Specialist Ensemble
+2026-10-14 07:22,57172469,0.762,complete,v63 CPU: Quantile Borda Rank Consensus across 8-Model Specialist Stack
+2026-10-14 07:37,57172980,0.781,complete,v62 CPU: 65% Specialist Dominant on Bottleneck Findings
+2026-10-14 07:39,57173053,0.768,complete,v64 CPU: Biomechanical ACL Pivot-Shift & Effusion Prior Stack
+2026-10-15 00:13,57199417,,complete,v55 GPU: 4-Way Precision Stack (Raptor 384 SWA + S6 Compact + Colab Attention-MIL)
+2026-10-15 00:13,57199426,,complete,v56 GPU: Power-Contrast Sharpening (p=1.20) on 4-Way SOTA Stack
+2026-10-15 00:14,57199451,,complete,"v57 GPU: 40% Specialist Dominance on Fracture (0.905), Synovitis (0.895), Contusion (0.856)"
+2026-10-15 00:14,57199460,,complete,v58 GPU: Quantile Borda Rank Consensus across SOTA 4-Way Ensemble
+2026-10-15 00:14,57199466,,complete,v59 GPU: Biomechanical ACL Pivot-Shift & Effusion Prior Stack
+2026-10-16 06:23,57258039,0.954,complete,v65 GPU: Streamlined Master SOTA (Raptor + S6 + Multi-Threaded Specialist)
+2026-10-16 10:36,57265956,0.945,complete,v66 GPU: Power-Contrast Sharpening (p=1.20) on 3-Way SOTA Stack
+2026-10-16 10:36,57265959,0.947,complete,v68 GPU: Non-Parametric Quantile Borda Consensus across SOTA Ensemble
+2026-10-16 10:37,57265970,0.945,complete,v69 GPU: Ultra Clinical Stack with Biomechanical Co-occurrence Prior
+2026-10-16 10:37,57265998,0.942,complete,"v67 GPU: 50% Specialist Dominance on Fracture, Synovitis, Contusion"
+2026-10-17 05:14,57296383,0.954,complete,v70 GPU: 3-Pillar Master SOTA (Raptor 384 SWA + S6 Compact 3D + DINOv2-Base Plane-Routed)
+2026-10-17 14:22,57314373,0.954,complete,v70 Version 2: True 3-Pillar Master SOTA (Raptor + S6 + DINOv2 Active)
+2026-10-17 14:34,57314774,0.941,complete,v72 GPU: Logit-Rank Space Calibration Fusion (Raptor + S6 + DINOv2-Base SOTA)
+2026-10-17 14:38,57314897,0.943,complete,v71 GPU: Asymmetric Finding-Specific Specialist Routing (Raptor + S6 + DINOv2)
+2026-10-17 18:11,57321334,0.944,complete,v73 GPU: Extremity Consensus & Agreement-Gated Positive Rescue
+2026-10-18 06:13,57342259,0.958,complete,v74 GPU: Verified 0.9586 Master SOTA (Raptor-384 + Raptor-224 + R6 Flip-TTA + 2.5D MIL)
+2026-10-18 06:29,57342941,0.957,complete,v75 GPU: Quintuple SOTA (Raptor-384 + Raptor-224 + R6 Flip-TTA + 2.5D MIL + DINOv2 ViT-B/14)
+2026-10-18 13:38,57356187,0.957,complete,v76 GPU: Optimal Anatomically-Calibrated SOTA (Raptor-384 + Raptor-224 SWA 0.40 + R6 Flip-TTA + Calibrated 2.5D MIL)
+2026-10-18 13:53,57356627,0.957,complete,v78 GPU: Grandmaster Anatomical SOTA Stack (Anatomical FOV A224_C + Fully-Calibrated R6 Flip-TTA + Multi-Slice MIL Reader)
+2026-10-18 20:07,57367602,0.957,complete,v79 GPU: Grandmaster S6 All-Data Stack (Raptor-384 + Raptor-224 + R6 4-Fold + S6 All-Data 0.950 + 2.5D MIL)
+2026-10-19 04:34,57382235,0.950,complete,v80 GPU: Breakthrough SOTA (Laterality-Corrected Raptor-384 + Native R6/S6 3D + 2.5D MIL)
+2026-10-19 05:35,57384110,0.953,complete,v81 GPU: Full 12-Class Anatomical Asymmetric SOTA (Laterality-Fixed 384px + 3D ConvNeXt + Amplified MIL)
+2026-10-19 13:26,57397754,0.957,complete,v82 GPU: Clean SOTA Stack (Native Raptor TTA + R7 ConvNeXt 4-Fold + State/Fluid Stackers + Part B MIL)
+2026-10-19 18:49,57406181,0.957,complete,v83 GPU: SOTA Dual-Engine (Raptor-384 + Raptor-224 SWA + R6 4-Fold + R7 OA Extent 4-Fold + Part B MIL)
+2026-10-19 19:18,57406832,0.957,complete,v84 GPU: Resolution-Locked 384px & R7 Extent-Dominant SOTA
+2026-10-20 05:26,57423775,0.957,complete,v85 GPU: Probit Normal Quantile Latent Fusion & Surgical Routing SOTA
+2026-10-20 05:47,57424404,0.957,complete,v86 GPU: Full-Stack Probit Latent Fusion & Amplified 2.5D MIL Reader SOTA
+2026-10-20 08:31,57429805,0.957,complete,v87 GPU: Orthogonal Residual Ridge Projection Engine SOTA (Cross-Clinical Synovitis Effusion + Lateral OA & PF OA Cartilage Residuals)
+2026-10-20 14:49,57442568,0.956,complete,v88 GPU: 448px High-Res ConvNeXt (DINOv3-LVD) + V74 0.958 Anchor (Lateral OA/PF OA/Meniscus Boost)
+2026-10-20 16:49,57446461,0.958,complete,v89 GPU: Precision Orthogonal SOTA Anchor (0.9586 Base + 10% Calibrated S6 All-Data Rank Injection)
+2026-10-21 11:37,57479867,0.958,complete,v90 GPU: v74 0.958 anchor + 0.20 S6 all-data rank mix (v89 weight x2; same notebook otherwise)
+2026-10-21 21:09,57497265,0.958,complete,v90 rerun 1/4 (same notebook; run-to-run variance draw)
+2026-10-21 21:10,57497273,0.958,complete,v90 rerun 2/4 (same notebook; run-to-run variance draw)
+2026-10-21 21:10,57497279,0.958,complete,v90 rerun 3/4 (same notebook; run-to-run variance draw)
+2026-10-21 21:10,57497284,0.958,complete,v90 rerun 4/4 (same notebook; run-to-run variance draw)
+2026-10-22 11:09,57522189,,pending,v94: Stage 3 PF OA/Synovitis/Baker's 0.5 + W_S6 0.35
+2026-10-22 12:20,57524258,,pending,v95: Stage3 PF/Syn 0.35 Frac 0.75 + 2-tier S6 (0.35/0.20) + S6_STOP_H 8.60
+2026-10-22 13:55,57527149,,pending,v96 B: R6-lean Stage 3 + W_S6 0.45
+2026-10-22 13:55,57527151,,pending,v96 C: R6-max Stage 3 + W_S6 0.45
+2026-10-22 13:55,57527153,,pending,v96 A: R6-lean Stage 3 + W_S6 0.35

@@ -42,6 +42,9 @@ What worked, what didn't, and what we would do differently. The chronological de
 * **In-sample bootstrap probabilities on 58 studies are optimistic.** Use a split-half test of the selection rule.
   Free per-finding tuning helped the held-out half only about 2 times in 3. The simple "keep or revert to neutral"
   rule helped 83 % of the time.
+* **On the final day the public leaderboard predicted private better than the 58 did.** Every variant tuned on the
+  58 scored higher than v90 there, yet none beat v90 on private, and the two the public board marked down were
+  also the weakest on private. A 0.001 public drop was a signal, not just noise.
 * **Know which components saw the evaluation set.** Raptor was checkpoint-selected on the 58, so the 58 flatter it.
   R6 and S6 never saw them.
 * **Gate every training run with a smoke test.** One 6-hour GPU run trained at chance (AUC ~0.53) before anyone

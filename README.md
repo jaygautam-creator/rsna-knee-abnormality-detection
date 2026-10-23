@@ -8,8 +8,9 @@ Kaggle notebook with no internet and a 9-hour limit.
 
 | | |
 |---|---|
-| Best public score | **0.958** (v74, v89, v90) |
-| Public rank before the final day | 381 of 6,361 teams |
+| Final result | **Private 0.943, rank 499 of 6,420 teams (bronze medal)** |
+| Final picks | v90 and v96-a, both 0.943 private: the best of our 112 submissions |
+| Best public score | 0.958 (v74, v89, v90, v96-a); best public rank 381 |
 | Final-day submissions | v94, v95, v96 A/B/C. See [docs/results.md](docs/results.md) |
 
 ## The problem in one paragraph

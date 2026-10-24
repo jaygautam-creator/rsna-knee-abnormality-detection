@@ -5,7 +5,7 @@ is in [submission-history.csv](submission-history.csv).
 
 ## Final result
 
-**Private 0.943, rank 499 of 6,420 teams (bronze medal).** The final picks were v90 (57479867) and v96-a
+**Private 0.943, rank 499 of 6,425 teams (bronze medal).** The final picks were v90 (57479867) and v96-a
 (57527153). Both scored 0.943 on private, the best of all 112 submissions, so no other pick would have done better at
 the leaderboard's 3-decimal precision. The public fork we started from (v74) scored 0.942 private; the S6 blend was
 worth about +0.001.

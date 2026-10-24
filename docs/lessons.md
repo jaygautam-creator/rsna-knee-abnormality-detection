@@ -63,3 +63,12 @@ What worked, what didn't, and what we would do differently. The chronological de
   must run last behind a deadline, and CPU inference is out (223 s per study for one model).
 * **Reruns of a deterministic pipeline score identically.** Four reruns of v90 all gave the same score, so they were
   not a variance lottery.
+
+## What separated top-5 gold solutions from our stack
+
+Comparing our pipeline (`0.958` public / `0.943` private, 499th) against the [5th-place write-up](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/writeups/5th-place-solution) highlights four concrete gaps that post-hoc rank blending could not close:
+
+1. **Bone-segmentation-anchored anatomical ROI crops (2x effective resolution):** Our models saw full-field volumes or a fixed `0.8` center crop (`Raptor-224`). The 5th-place team ran a bone-segmentation model to anchor high-resolution crops on the **patellofemoral joint**, **medial/lateral compartments**, and **central knee joint**, directly addressing our weakest compartments (`PF OA`, `Lateral OA`, `Lateral Meniscus`).
+2. **Tri-modal soft labels + iterative OOF pseudo-labeling:** We mined reports with a text LLM (`Qwen3-4B`) once. The 5th-place team combined (a) LLM report extraction, (b) vision-model interpretations of selected MRI slices, and (c) iterative out-of-fold teacher pseudo-labels from earlier image models.
+3. **Using the 58 gold studies to calibrate training targets (not just final blend weights):** Rather than only tuning post-hoc ensemble weights on the 58 expert-labelled studies, they used the 58 studies upstream to calibrate soft-label probabilities before training their CNN families (`EfficientNetV2-M`, `ConvNeXt-Base`, `ConvNeXt-Tiny`).
+4. **Compartment-anchored specialist models:** Our unanchored specialist experiments failed to transfer (`~0.494` in-pipeline on the 58), whereas bone-segmented ROI crops allowed the 5th-place team to train dedicated region specialists (`M4`) and four fine-tuned `Lateral Meniscus` specialists (`M5`).
